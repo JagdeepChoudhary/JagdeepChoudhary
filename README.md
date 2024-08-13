@@ -27,4 +27,3 @@ I'm a passionate developer with experience in both frontend and backend technolo
 
 ---
 
-Feel free to customize the links and additional sections as needed. This README will appear on your GitHub profile when you create a repository with the same name as your username (e.g., `yourusername/yourusername`).
