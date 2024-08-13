@@ -18,7 +18,7 @@ I'm a passionate developer with experience in both frontend and backend technolo
   
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagdeepChoudhary&show_icons=true&hide_border=true&theme=radical)
 
 ## 💬 Connect with Me
 
