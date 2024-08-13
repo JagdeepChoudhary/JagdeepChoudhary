@@ -22,8 +22,8 @@ I'm a passionate developer with experience in both frontend and backend technolo
 
 ## 💬 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jdchoudhary)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/jdchoudhary)
+- **LinkedIn:**(https://www.linkedin.com/in/JagdeepChoudhary/)
+- **Twitter:**(https://x.com/i/flow/login?redirect_after_login=%2Fjd_choudhary_)
 
 ---
 
