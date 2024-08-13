@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jagdeep👋
 
 I'm a passionate developer with experience in both frontend and backend technologies. I love building web applications and constantly learning new things. Below is a quick overview of the languages and technologies I work with.
 
@@ -23,7 +23,7 @@ I'm a passionate developer with experience in both frontend and backend technolo
 ## 💬 Connect with Me
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jdchoudhary)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/jdchoudhary)
 
 ---
 
